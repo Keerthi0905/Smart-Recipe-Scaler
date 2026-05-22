@@ -99,6 +99,10 @@ Example Pantry:
 
 # Sample Output
 
+![Output 1](output 1.png)
+
+![Output 2](output 2.png)
+
 SCALED RECIPE
 ==================================================
 rice | 4.0 cups | ₹320 | 800 cal | 16g protein
