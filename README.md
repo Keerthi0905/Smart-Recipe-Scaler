@@ -103,30 +103,6 @@ Example Pantry:
 
 ![Output 2](output2.png)
 
-SCALED RECIPE
-==================================================
-rice | 4.0 cups | ₹320 | 800 cal | 16g protein
-chicken | 2.0 kg | ₹500 | 500 cal | 54g protein
-
-TOTAL SUMMARY
-==================================================
-Total Cost: ₹ 820
-Total Calories: 1300
-Total Protein: 70 g
-
-BUDGET STATUS
-==================================================
-WITHIN BUDGET
-
-SHOPPING LIST
-==================================================
-- 2.0 kg chicken
-- 4.0 pieces onions
-
-MEAL RECOMMENDATION
-==================================================
-Recommended Meal: Fried Rice
-
 ---
 
 # Learning Outcomes
