@@ -99,9 +99,9 @@ Example Pantry:
 
 # Sample Output
 
-![Output 1](output 1.png)
+![Output 1](output1.png)
 
-![Output 2](output 2.png)
+![Output 2](output2.png)
 
 SCALED RECIPE
 ==================================================
